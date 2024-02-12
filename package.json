@@ -51,7 +51,8 @@
     "test": "pnpm lint && pnpm unit",
     "unit": "NODE_ENV=test nyc mocha --recursive",
     "update-deps": "updates -u -g -c",
-    "update-version": "standard-version"
+    "update-version": "standard-version",
+    "prepare": "husky"
   },
   "dependencies": {
     "colors": "^1.4.0",
