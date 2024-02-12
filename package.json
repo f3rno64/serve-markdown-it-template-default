@@ -1,6 +1,6 @@
 {
   "name": "http-server-md-template-default",
-  "version": "1.0.7",
+  "version": "1.1.0",
   "license": "MIT",
   "description": "Default template for http-server-md",
   "author": "Cris Mihalache <f3rno64@gmail.com>",
