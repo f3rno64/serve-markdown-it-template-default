@@ -114,10 +114,5 @@
     "stylelint-config-rational-order": "^0.1.2",
     "stylelint-config-sass-guidelines": "^11.0.0",
     "updates": "^15.1.2"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "pnpm test && pnpm docs && pnpm gen-readme && git add README.md DOCUMENTATION.md"
-    }
   }
 }
