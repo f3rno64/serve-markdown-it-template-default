@@ -1,8 +1,8 @@
 ## Modules
 
 <dl>
-<dt><a href="#module_serve-markdown-it-template-default">serve-markdown-it-template-default</a></dt>
-<dd><p>Simple default template for <a href="https://github.com/f3rno/serve-markdown-it">serve-markdown-it</a>, supporting
+<dt><a href="#module_http-server-md-template-default">http-server-md-template-default</a></dt>
+<dd><p>Simple default template for <a href="https://github.com/f3rno64/http-server-md">http-server-md</a>, supporting
 multiple color themes and configurable syntax highlighting.</p>
 </dd>
 </dl>
@@ -15,10 +15,10 @@ multiple color themes and configurable syntax highlighting.</p>
 </dd>
 </dl>
 
-<a name="module_serve-markdown-it-template-default"></a>
+<a name="module_http-server-md-template-default"></a>
 
-## serve-markdown-it-template-default
-Simple default template for [serve-markdown-it](https://github.com/f3rno/serve-markdown-it), supporting
+## http-server-md-template-default
+Simple default template for [http-server-md](https://github.com/f3rno64/http-server-md), supporting
 multiple color themes and configurable syntax highlighting.
 
 **License**: MIT  

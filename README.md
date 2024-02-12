@@ -1,28 +1,28 @@
-# serve-markdown-it-template-default
+# http-server-md-template-default
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-Simple default template for `serve-markdown-it`, supporting multiple color
+Simple default template for `http-server-md`, supporting multiple color
 themes and configurable syntax highlighting.
 
 > README & DOCS TODO
 
 ### [Installation](#installation)
-![npm badge](https://nodei.co/npm/serve-markdown-it.png?downloads=true&downloadRank=true&stars=true)
+![npm badge](https://nodei.co/npm/http-server-md.png?downloads=true&downloadRank=true&stars=true)
 
 ```bash
-yarn add serve-markdown-it-template-default
+pnpm add http-server-md-template-default
 ```
 
 ### [Developing](#developing)
 
 ```bash
-yarn gen-readme // update README.md
-yarn docs // update DOCUMENTATION.md
-yarn test // lint & mocha
-yarn update-deps // bump all deps
+pnpm gen-readme // update README.md
+pnpm docs // update DOCUMENTATION.md
+pnpm test // lint & mocha
+pnpm update-deps // bump all deps
 ```
 
 ### [Release History](#release_history)
@@ -50,8 +50,8 @@ Distributed under the **MIT** license. See [LICENSE.md](LICENSE.md) for more inf
 ## Modules
 
 <dl>
-<dt><a href="#module_serve-markdown-it-template-default">serve-markdown-it-template-default</a></dt>
-<dd><p>Simple default template for <a href="https://github.com/f3rno/serve-markdown-it">serve-markdown-it</a>, supporting
+<dt><a href="#module_http-server-md-template-default">http-server-md-template-default</a></dt>
+<dd><p>Simple default template for <a href="https://github.com/f3rno64/http-server-md">http-server-md</a>, supporting
 multiple color themes and configurable syntax highlighting.</p>
 </dd>
 </dl>
@@ -64,10 +64,10 @@ multiple color themes and configurable syntax highlighting.</p>
 </dd>
 </dl>
 
-<a name="module_serve-markdown-it-template-default"></a>
+<a name="module_http-server-md-template-default"></a>
 
-## serve-markdown-it-template-default
-Simple default template for [serve-markdown-it](https://github.com/f3rno/serve-markdown-it), supporting
+## http-server-md-template-default
+Simple default template for [http-server-md](https://github.com/f3rno64/http-server-md), supporting
 multiple color themes and configurable syntax highlighting.
 
 **License**: MIT  
@@ -88,8 +88,8 @@ Generate a markdown string to display an image at `relPath`.
 
 
 <!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/serve-markdown-it-template-default.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/serve-markdown-it-template-default
-[npm-downloads]: https://img.shields.io/npm/dm/serve-markdown-it-template-default.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/f3rno/serve-markdown-it-template-default/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/f3rno/serve-markdown-it-template-default
+[npm-image]: https://img.shields.io/npm/v/http-server-md-template-default.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/http-server-md-template-default
+[npm-downloads]: https://img.shields.io/npm/dm/http-server-md-template-default.svg?style=flat-square
+[travis-image]: https://img.shields.io/travis/f3rno64/http-server-md-template-default/master.svg?style=flat-square
+[travis-url]: https://travis-ci.org/f3rno64/http-server-md-template-default
